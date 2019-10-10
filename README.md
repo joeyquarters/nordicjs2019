@@ -15,3 +15,4 @@ Here you will find notes and links from the [Nordic.js 2019](https://nordicjs.co
 ## Third block
 
 - [Take on me](takeOnMe.md)
+- [Localization: Implementation and Testing... Locally](localizationTesting.md)
