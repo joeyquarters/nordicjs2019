@@ -11,3 +11,7 @@ Here you will find notes and links from the [Nordic.js 2019](https://nordicjs.co
 
 - [Simplify Web App Development with Svelte](webDevWithSvelte.md)
 - [What we talk about when we talk about the JavaScript object model](jsObjectModel.md)
+
+## Third block
+
+- [Take on me](takeOnMe.md)
