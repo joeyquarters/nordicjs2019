@@ -23,3 +23,4 @@ Here you will find notes and links from the [Nordic.js 2019](https://nordicjs.co
 ### Fourth block
 
 - [Think in TypeScript](thinkingInTypescript.md)
+- [Full Stack Type Safety with React, GraphQL, TypeScript, and TypeGraphQL](fullStackTypeSafety.md)
