@@ -19,3 +19,7 @@ Here you will find notes and links from the [Nordic.js 2019](https://nordicjs.co
 - [Take on me](takeOnMe.md)
 - [Localization: Implementation and Testing... Locally](localizationTesting.md)
 - [Universal Components & Deterministic Rendering](universalComponents.md)
+
+### Fourth block
+
+- [Think in TypeScript](thinkingInTypescript.md)
