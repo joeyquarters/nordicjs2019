@@ -31,3 +31,7 @@ Here you will find notes and links from the [Nordic.js 2019](https://nordicjs.co
 
 - [API Modernization: Building Bridges As You Cross Them](apiModernization.md)
 - [Gettin' into the (Tensor)Flow!](tensorFlow.md)
+
+### Second block
+
+- [Building Distributed Systems with Node.js](distributedNode.md)
