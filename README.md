@@ -35,3 +35,4 @@ Here you will find notes and links from the [Nordic.js 2019](https://nordicjs.co
 ### Second block
 
 - [Building Distributed Systems with Node.js](distributedNode.md)
+- [Refactoring (the way we talk about) CSS](refactoringCSS.md)
